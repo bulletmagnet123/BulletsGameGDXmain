@@ -16,9 +16,7 @@ public class FirstScreen implements Screen {
 
     @Override
     public void render(float delta) {
-
         batch.begin();
-
 
         batch.end();
     }
